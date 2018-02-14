@@ -1,2 +1,0 @@
-﻿  FloodFillingAlgorithm.cpp
-c:\users\edwin\documents\uni\3rd year\project\floodfillingalgorithm\floodfillingalgorithm\floodfillingalgorithm.h(4): fatal error C1083: Cannot open include file: 'opencv.hpp': No such file or directory
