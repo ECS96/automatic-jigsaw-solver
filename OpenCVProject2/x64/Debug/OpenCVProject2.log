@@ -1,2 +1,8 @@
-﻿  FloodFillTest.cpp
-  OpenCVProject2.vcxproj -> C:\Users\Edwin\Documents\Uni\3rd Year\Project\openCVProject2\x64\Debug\OpenCVProject2.exe
+﻿  Matching.cpp
+c:\users\edwin\documents\uni\3rd year\project\automatic-jigsaw-solver\automatic-jigsaw-solver\opencvproject2\matching.cpp(43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\documents\uni\3rd year\project\automatic-jigsaw-solver\automatic-jigsaw-solver\opencvproject2\matching.cpp(65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\documents\uni\3rd year\project\automatic-jigsaw-solver\automatic-jigsaw-solver\opencvproject2\matching.cpp(108): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\documents\uni\3rd year\project\automatic-jigsaw-solver\automatic-jigsaw-solver\opencvproject2\matching.cpp(168): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\documents\uni\3rd year\project\automatic-jigsaw-solver\automatic-jigsaw-solver\opencvproject2\matching.cpp(190): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\edwin\documents\uni\3rd year\project\automatic-jigsaw-solver\automatic-jigsaw-solver\opencvproject2\matching.cpp(233): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OpenCVProject2.vcxproj -> C:\Users\Edwin\Documents\Uni\3rd Year\Project\automatic-jigsaw-solver\automatic-jigsaw-solver\OpenCVProject2\x64\Debug\OpenCVProject2.exe

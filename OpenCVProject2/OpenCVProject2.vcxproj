@@ -123,10 +123,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FloodFillTest.cpp" />
+    <ClCompile Include="ExtractionMethods.cpp" />
+    <ClCompile Include="ImageOperations.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Piece.cpp" />
+    <ClCompile Include="Matching.cpp" />
+    <ClCompile Include="Edge.cpp" />
+    <ClCompile Include="PieceNode.cpp" />
+    <ClCompile Include="Puzzle.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\Scanned Pictures\jigsawpiece001.jpg" />
+    <ClInclude Include="Edge.h" />
+    <ClInclude Include="ExtractionMethods.h" />
+    <ClInclude Include="Matching.h" />
+    <ClInclude Include="ImageOperations.h" />
+    <ClInclude Include="PieceNode.h" />
+    <ClInclude Include="Puzzle.h" />
+    <ClInclude Include="Piece.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="OpenCVProject2.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

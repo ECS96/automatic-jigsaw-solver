@@ -1,0 +1,144 @@
+Piece 1: Corner
+Edge 1: Straight
+Edge 2: Concave
+Edge 3: Concave
+Edge 4: Straight
+
+Piece 2: Border
+Edge 1: Convex
+Edge 2: Convex
+Edge 3: Convex
+Edge 4: Straight
+
+Piece 3: Border
+Edge 1: Concave
+Edge 2: Concave
+Edge 3: Concave
+Edge 4: Straight
+
+Piece 4: Border
+Edge 1: Convex
+Edge 2: Concave
+Edge 3: Convex
+Edge 4: Straight
+
+Piece 5: Border
+Edge 1: Concave
+Edge 2: Concave
+Edge 3: Concave
+Edge 4: Straight
+
+Piece 6: Corner
+Edge 1: Convex
+Edge 2: Concave
+Edge 3: Straight
+Edge 4: Straight
+
+Piece 7: Border
+Edge 1: Straight
+Edge 2: Convex
+Edge 3: Convex
+Edge 4: Convex
+
+Piece 8: Interior
+Edge 1: Concave
+Edge 2: Concave
+Edge 3: Concave
+Edge 4: Concave
+
+Piece 9: Interior
+Edge 1: Convex
+Edge 2: Concave
+Edge 3: Convex
+Edge 4: Convex
+
+Piece 10: Interior
+Edge 1: Concave
+Edge 2: Convex
+Edge 3: Concave
+Edge 4: Convex
+
+Piece 11: Interior
+Edge 1: Convex
+Edge 2: Convex
+Edge 3: Convex
+Edge 4: Convex
+
+Piece 12: Border
+Edge 1: Concave
+Edge 2: Convex
+Edge 3: Straight
+Edge 4: Convex
+
+Piece 13: Border
+Edge 1: Straight
+Edge 2: Concave
+Edge 3: Concave
+Edge 4: Concave
+
+Piece 14: Interior
+Edge 1: Convex
+Edge 2: Convex
+Edge 3: Convex
+Edge 4: Convex
+
+Piece 15: Interior
+Edge 1: Concave
+Edge 2: Convex
+Edge 3: Concave
+Edge 4: Convex
+
+Piece 16: Interior
+Edge 1: Convex
+Edge 2: Concave
+Edge 3: Convex
+Edge 4: Concave
+
+Piece 17: Interior
+Edge 1: Concave
+Edge 2: Concave
+Edge 3: Concave
+Edge 4: Concave
+
+Piece 18: Border
+Edge 1: Convex
+Edge 2: Concave
+Edge 3: Straight
+Edge 4: Concave
+
+Piece 19: Corner
+Edge 1: Straight
+Edge 2: Straight
+Edge 3: Convex
+Edge 4: Convex
+
+Piece 20: Border
+Edge 1: Concave
+Edge 2: Straight
+Edge 3: Concave
+Edge 4: Concave
+
+Piece 21: Border
+Edge 1: Convex
+Edge 2: Straight
+Edge 3: Convex
+Edge 4: Concave
+
+Piece 22: Border
+Edge 1: Concave
+Edge 2: Straight
+Edge 3: Concave
+Edge 4: Convex
+
+Piece 23: Border
+Edge 1: Convex
+Edge 2: Straight
+Edge 3: Convex
+Edge 4: Convex
+
+Piece 24: Corner
+Edge 1: Concave
+Edge 2: Straight
+Edge 3: Straight
+Edge 4: Convex
+

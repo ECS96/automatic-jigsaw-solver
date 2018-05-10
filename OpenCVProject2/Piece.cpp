@@ -1,21 +1,31 @@
-#include <opencv2/opencv.hpp>
-#include <iostream>
+/**
+CS354 Jigsaw Puzzle Problem Implementation
+@class Piece.cpp
+@purpose: Stores a Piece object with list of edge objects, piece type corner, border, interior and piece ID
+@author Edwin Stephens
+@student_number 826723
+@version 1.0 07/05/2018
+*/
+
 #include "Piece.h"
 
-using namespace cv;
-using namespace std;
-
-Piece::Piece(vector<Edge> edgeList, pieceType pType) : edgeList(edgeList), pType(pType)
+// Constructor
+Piece::Piece(vector<Edge> edgeList, pieceType pType, int pieceID) : edgeList(edgeList), pType(pType), pieceID(pieceID)
 {
 
 }
-
+// Accessor for Piece
 Piece::pieceType Piece::getPieceType()
 {
-	return pieceType();
+	return pType;
 }
-
+// Accessor for Edge List
 vector<Edge> Piece::getEdgeList()
 {
-	return vector<Edge>();
+	return edgeList;
+}
+// Accessor for Piece ID
+int Piece::getPieceID()
+{
+	return pieceID;
 }

@@ -1,0 +1,32 @@
+Edwin Stephens 826723
+
+Jigsaw Puzzle Problem Implementation 
+
+This Program uses OpenCV and I'm not sure if this code is portable with the manually installed libraries
+
+This project was build in Visual Studio.
+
+In OpenCVProject2 Folder Open the OpenCVProject2.sln in Visual Studio
+
+To run the program the full paths to the images need to be set. 
+
+The source directory needs to be added where the 826723 project zip was extracted
+
+In Main.cpp and ImageOperations.Cpp change the sourceDir string to the full path of the location to the extracted 826723 folder
+
+If project folder is in "Your/Own/Source/Directory/826723/automatic-jigsaw-solver/..."
+
+example: String sourceDir = "Your/Own/Source/Directory";
+
+Recompile and Run program with Ctrl+F5
+
+The program should be run in Debug x64 and from Main.cpp
+
+If the program cannot be run then all outputs of the program can be found from the last successful run.
+
+Images for all stages of image processing and data extraction are found in the Final Jigsaw Scans Folder:
+Original Images, Canny Output, Contours, Corners, Edges, Gaussian and Threshold images are all stored.
+
+Types detected for each piece and edge are stored in the OpenCVProject2 folder in types.txt
+
+All Scores calculated in matching are found in the OpenCVProject2 folder in allscores.txt and bestscores.txt
